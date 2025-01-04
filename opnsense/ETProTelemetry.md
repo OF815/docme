@@ -17,6 +17,8 @@
 With this data cybersecurity researchers and analysts can improve the detection of malicious network traffic.
 The times when we could rely on just firewall rules for our protection are long gone.
 Additional layers of security are desperately needed to guard against these attacks.</p>
+<p></p><ruby>Todays cybersecurity engineers need timely<rt>今日のサイバーセキュリティエンジニアにはタイムリーな</rt></ruby> <ruby>and accurate data<rt>正確なデータ</rt></ruby> <ruby>about eminent threats<rt>差し迫った脅威について</rt></ruby> <ruby>and how they spread around the globe.<rt>そしてそれがどのように世界中に広まったのか。</rt></ruby> <ruby>With this data cybersecurity researchers<rt>このデータを使ってサイバーセキュリティ研究者は</rt></ruby> <ruby>and analysts can improve the detection<rt>アナリストは検出能力を向上させることができる</rt></ruby> <ruby>of malicious network traffic.<rt>悪意のあるネットワーク トラフィックの。</rt></ruby> <ruby>The times<rt>時代</rt></ruby> <ruby>when we could rely<rt>頼れるとき</rt></ruby> <ruby>on just firewall rules<rt>ファイアウォールルールのみ</rt></ruby> <ruby>for our protection are long gone.<rt>我々を守ってくれた人々はもういない。</rt></ruby> <ruby>Additional layers<rt>追加レイヤー</rt></ruby> <ruby>of security are desperately needed<rt>セキュリティが切実に必要</rt></ruby> <ruby>to guard<rt>守る</rt></ruby> <ruby>against these attacks.<rt>これらの攻撃に対して。</rt></ruby></p>
+            
 <p>With growing risks the need to fortify our security is growing for both big enterprises as for SMEs alike, but often
 out of reach for the latter.
 An important extra security addition is an Intrusion Detection and Prevention System (IDS/IPS).</p>
